@@ -11,3 +11,8 @@ Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angul
 ## Technologies
 - Css
 - HTML
+
+## Lenguas
+- Castellano
+- quechua
+- Aimara
